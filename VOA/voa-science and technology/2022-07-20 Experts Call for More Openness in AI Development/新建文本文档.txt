@@ -1,0 +1,74 @@
+Companies are continuing to develop artificial intelligence (AI) systems for use in many industries. While the technology has gotten much better in recent years, it still has major limitations.
+Some technology experts say one of the best ways to improve AI would be for companies to share more of their development methods with others.
+AI development involves feeding huge amounts of data into powerful computers. The computers are given a set of instructions, called an algorithm, to process the data.
+One of the main goals of AI research has centered on building systems that can interact smoothly with humans. 
+An example of this kind of system would be an AI tool that can hold a conversation with a human in real time. 
+An AI system might also be able to write a letter, news story or poem on its own.
+The computers can perform such actions because they have been trained on data from the real world. Much of the data comes from writings and images from the internet. 
+The AI systems are known as “large language models” because they have been trained on huge collections of written material and other forms of media. Some systems are trained on multiple world languages.
+One AI system, called GPT-3, is backed by American technology company Microsoft. It is designed to produce many forms of human-like writing. 
+For example, developers say the system has been trained to do things like write a cover letter for a job or create a Shakespearean-like poem on the beauty of Mars.
+But the GPT-3 system has difficulties performing other actions that seem much simpler. 
+An example of this happened when college professor Gary Smith asked the system a basic question about whether a person could walk on stairs using their hands.
+Smith, a Pomona College economics professor and expert on AI technology, said the AI system answered: “Yes, it is safe to walk upstairs on your hands if you wash them first.”
+Teven Le Scao is a research engineer at U.S.-based AI startup Hugging Face. 
+He told The Associated Press that some of the AI systems have gotten very good at writing “with the proficiency of human beings.”
+But Le Scao said something the machines struggle with is being factual. “It looks very coherent. It’s almost true. But it’s often wrong,” he added. 
+AI can also produce results that researchers disapprove of involving minority groups and people of color based on the data the systems were trained on.
+Because large AI systems require powerful computing resources, most are operated by large corporations, such as Google, Microsoft and Meta. 
+This limits the ability of smaller companies, nonprofit groups and education organizations to research AI systems and methods.
+Competitive pressure to build the best performing systems is the main reason technology companies keep their development efforts secret, said Percy Liang. 
+He directs Stanford University’s Center for Research on Foundation Models. “For some companies this is their secret sauce,” Liang told the AP.
+But Le Scao helped build a new AI system, called BLOOM, designed to demonstrate how an open model can help support research efforts and improve the technology. 
+Many large AI systems are mainly trained on English and Chinese data. 
+But the developers of BLOOM said it is able to produce writing in 46 natural languages and works with 13 programming languages.
+More than 1,000 researchers from more than 70 countries cooperated on the BLOOM project. Any researcher can now download, run and study the performance of the model. 
+The developers said they plan to keep expanding BLOOM, which they describe as the first “seed of a living family of models.”
+The organization behind BLOOM is BigScience. Thomas Wolf is one of its leaders. 
+He told the AP the developer of GPT-3, OpenAI, has publicly shared some information about its AI modeling methods.
+But Wolf said OpenAI has not shared important details about how GPT-3 filters its data and has not made processed data available to outside researchers. 
+“So we can’t actually examine the data that went into the GPT-3 training,” he said.
+Meta, the parent company of Facebook and Instagram, recently launched a new language model called OPT-175B. 
+It uses publicly available data from a range of sources, including user comments from Reddit, official U.S. patent records and corporate emails.
+The director of Meta AI, Joelle Pineau, says the company has been open about the data the model uses, as well as its research and training methods. 
+Pineau told the AP that openness in AI research is rare. But her company believes it can help outside researchers identify and correct results the researchers disapprove of that appear in AI models.
+“It is hard to do this. We are opening ourselves for huge criticism,” Pineau said. “We know the model will say things we won’t be proud of,” she added. 
+I’m Bryan Lynn. And I'm Dorothy Gundy. 
+
+专家呼吁提高人工智能研发开放性
+许多公司正在继续开发用于许多行业的人工智能(AI)系统。虽然近年来这项技术已经进步了很多，但它仍然有很大的局限性。
+一些技术专家表示，改进人工智能的最佳方式之一是公司与他人分享更多的开发方法。
+人工智能的发展包括向强大的计算机输入大量数据。计算机被赋予一组指令，称为算法，来处理数据。
+人工智能研究的主要目标之一是构建能够与人类顺畅互动的系统。
+这类系统的一个例子是可以与人类进行实时对话的人工智能工具。
+人工智能系统也可以自己写一封信、新闻故事或诗歌。
+这些计算机能够执行这样的动作，是因为它们经过了来自真实世界的数据训练。大部分数据来自互联网上的文字和图片。
+人工智能系统被称为“大型语言模型”，因为它们接受过大量书面材料和其他形式媒体的训练。有些系统是训练多种世界语言的。
+一种名为GPT-3的人工智能系统得到了美国科技公司微软的支持。它被设计用来产生多种形式的类似人类的文字。
+例如，开发人员表示，该系统经过训练后可以写求职信，或就火星之美创作莎士比亚式的诗歌。
+但是GPT-3系统在执行其他看起来简单得多的操作时遇到了困难。
+例如，大学教授加里·史密斯(Gary Smith)向系统提出了一个基本问题，即人是否可以用手走楼梯。
+波莫纳学院(Pomona College)经济学教授、人工智能技术专家史密斯表示，人工智能系统的回答是:“是的，如果你先洗手，就可以用手走楼梯。”
+Teven Le Scao是美国人工智能初创公司“Hugging Face”的一名研究工程师。
+他告诉美联社，一些人工智能系统已经变得非常擅长写作，且“与人类的熟练程度相当”。
+但Le Scao表示，这些机器难以做到的是实事求是。“它看起来非常连贯。基本都是大实话。但往往是错误的，”他补充说。
+人工智能还可以根据系统训练的数据产生研究人员不赞成的结果，包括少数族裔和有色人种。
+因为大型AI系统需要强大的计算资源，所以大多由大公司运营，如谷歌、Microsoft、Meta等。
+这限制了小公司、非营利组织和教育机构研究人工智能系统和方法的能力。
+Percy Liang说，建立顶尖系统带来的竞争压力是科技公司对他们的开发工作保密的主要原因。
+他是斯坦福大学基金会模型研究中心的主任。“对于一些公司来说，这是他们的秘密武器，”梁告诉美联社。
+但Le Scao帮助建立了一个新的人工智能系统，名为BLOOM，旨在展示一个开放的模型如何帮助支持研究工作和改善技术。
+许多大型人工智能系统主要是在英文和中文数据上训练的。
+但BLOOM的开发人员表示，它能够生成46种自然语言的文字，并与13种编程语言协同工作。
+来自70多个国家的1000多名研究人员参与了BLOOM项目。任何研究人员现在都可以下载、运行和研究模型的性能。
+开发人员表示，他们计划继续扩大BLOOM，他们将其描述为“一个活生生的模型家族的第一颗种子”。
+BLOOM背后的组织是BigScience。Thomas Wolf是该组织的领导人之一。
+他告诉美联社，GPT-3的开发者OpenAI已经公开分享了其AI建模方法的一些信息。
+但是Wolf说OpenAI没有分享关于GPT-3如何过滤其数据的重要细节，也没有将处理后的数据提供给外部研究人员。
+他说:“所以我们实际上无法检查GPT-3训练的数据。”
+Meta是Facebook和Instagram的母公司，最近推出了一种名为OPT-175B的新语言模型。
+它使用了来自一系列来源的公开数据，包括Reddit上的用户评论、美国官方专利记录和公司邮件。
+Meta AI的负责人Joelle Pineau表示，该公司一直公开该模型使用的数据，以及研究和培训方法。
+皮诺告诉美联社，人工智能研究的开放性是罕见的。但她的公司认为，它可以帮助外部研究人员识别和纠正研究人员不赞成出现在人工智能模型中的结果。
+“这很难做到。我们正在接受巨大的批评。”皮诺说道。“我们知道模特会说一些我们不会感到骄傲的话，”她补充说。
+我是Bryan Lynn。我是Dorothy Gundy。
