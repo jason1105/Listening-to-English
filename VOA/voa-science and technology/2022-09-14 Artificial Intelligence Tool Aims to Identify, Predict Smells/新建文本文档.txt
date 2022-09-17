@@ -1,0 +1,67 @@
+American researchers have created a technology tool that aims to identify and re-create different smells.
+The system is powered by artificial intelligence (AI). ~
+The tool was developed and tested by researchers at Google, universities and the Monell Chemical Senses Center. ~
+The team recently released results of their method and described the process in an article in the publication Proceedings of the National Academy of Sciences.
+The researchers said smells, also called odors, are produced by molecules released into the air. ~
+Those molecules then enter our noses and are processed there by “sensory receptors.” ~
+Those receptors send signals to the brain to help us recognize smells.
+The team said smells are identified in a way similar to how we identify and measure colors – using sensory maps. ~
+For example, maps – like the traditional color wheel – can show many different colors. ~
+Such maps present color combinations and show how the colors blend with each other.
+But the researchers said that historically, “useful maps for smell have been missing.” ~
+This is because the molecules related to smell are much more complex.
+They depend on more than photon particles used to see colors.
+In addition, the researchers said that while the human eye has just three sensory receptors for color, the human nose has more than 300 for smell.
+The scientists built on past research to produce a neural network model that aims to create a “map” to identify molecules related to smells. ~
+A neural network is a computer processing system built to act like the human brain.
+The team from Google AI calls the newly developed tool a “principal odor map.” ~
+The main purpose of the map is to “predict the odor properties of molecules,” the researchers said.
+The neural network models were also trained to identify which molecular characteristics were needed to make correct smell predictions. ~
+The researchers reported that the AI-powered map permits them to “predict and discover new odors and the molecules that produce them.”
+The team said their research suggests there are probably billions of molecules that are likely odorous, but have not yet been smelled. ~
+Since the mapping tool was shown to recognize an odorous molecule from its structure, “this guides us to discover new classes of odorants…” the researchers said.
+For the experiments, the researchers said they collected the largest ever set of data on odor descriptions for different molecules.
+For comparison purposes, they used human subjects to identify the smells of 400 molecules using 55 different descriptions. ~
+The team said that when compared to the human odor identifications, the neural network model repeatedly performed better than the human subjects.
+The team said such a tool can be used across many different fields, including the health care, food and fragrance industries.
+The researchers reported that the tool can be used to help fight one of the world’s biggest health problems – diseases spread through insects. ~
+They said the system can measure how effective a molecule is at keeping mosquitos away from humans.
+The team said it discovered a series of new molecules that can repel mosquitos with at least the same effectiveness as DEET, a chemical commonly used in insect repellants.
+This discovery, the researchers said, can lead to the development of less costly, longer lasting, and safer repellants than those containing DEET. ~
+Such repellants could be used “to reduce the worldwide incidence of diseases like malaria, potentially saving countless lives,” the team added.
+I’m Bryan Lynn.
+
+旨在识别和预测气味的人工智能工具
+
+美国研究人员发明了一种旨在识别和重新创造不同气味的技术工具。
+该系统由人工智能(AI)驱动。～
+该工具是由谷歌、大学和莫奈尔化学感官中心的研究人员开发和测试的。～
+该团队最近发布了他们方法的结果，并在《美国国家科学院院刊》上发表了一篇文章，描述了这一过程。
+研究人员称，气味是由释放到空气中的分子产生的。～
+然后这些分子进入我们的鼻子，经过“感觉感受器”的处理。”~
+这些感受器向大脑发送信号，帮助我们识别气味。
+该团队表示，气味的识别方式类似于我们识别和测量颜色的方式——使用感官地图。～
+例如，地图——像传统的色轮一样——可以显示许多不同的颜色。～
+这样的地图展示了颜色的组合，并显示了颜色是如何相互融合的。
+但研究人员表示，从历史上看，“有用的嗅觉地图一直缺失。”~
+这是因为与气味相关的分子要复杂得多。
+它们依赖的不仅仅是用来分辨颜色的光子粒子。
+此外，研究人员表示，虽然人眼只有3个感知颜色的感受器，但人类的鼻子却有300多个感知气味的感受器。
+科学家们在过去的研究基础上建立了一个神经网络模型，旨在创建一个“地图”，以识别与气味相关的分子。～
+神经网络是一种像人脑一样运作的计算机处理系统。
+来自谷歌AI的团队称这种新开发的工具为“主气味地图”。”~
+研究人员说，这幅地图的主要目的是“预测分子的气味特性”。
+神经网络模型也被训练来识别哪些分子特征需要做出正确的气味预测。～
+研究人员称，由人工智能驱动的地图允许他们“预测和发现新的气味和产生气味的分子”。
+该团队表示，他们的研究表明，可能有数十亿个分子可能是有气味的，但还没有被闻到。～
+研究人员说，由于绘图工具显示可以从结构上识别气味分子，“这引导我们发现新的气味类别……”
+在实验中，研究人员说他们收集了有史以来最大的一组关于不同分子气味描述的数据。
+为了进行比较，他们让受试者用55种不同的描述来识别400种分子的气味。～
+研究小组表示，与人类气味识别相比，神经网络模型的表现一再优于人类受试者。
+该团队表示，这种工具可以用于许多不同的领域，包括医疗保健、食品和香水行业。
+研究人员报告说，这种工具可以用来帮助对抗世界上最大的健康问题之一——通过昆虫传播的疾病。～
+他们说，该系统可以测量一种分子在使蚊子远离人类方面的效果。
+该团队表示，他们发现了一系列新的分子，可以击退蚊子，至少与驱蚊剂中常用的化学物质避蚊胺(DEET)的效果相同。
+研究人员说，这一发现可以开发出比含有避蚊胺的驱蚊剂更便宜、更持久、更安全的驱蚊剂。～
+研究小组补充说，这种驱蚊剂可以用来“减少全球疟疾等疾病的发病率，有可能挽救无数人的生命”。
+我是Bryan Lynn。
